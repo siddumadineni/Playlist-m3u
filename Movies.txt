@@ -11,7 +11,12 @@ https://cdn.fsl-buckets.life/Hi.Nanna.2023.1080p.WEB.DL.Hindi.5.1-Telugu.5.1.ESu
 https://bt7.api.mega.co.nz/cs/g?x=0Jxn3NlxnR6K&n=PBl1WDAL&fn=Mahavatar.Narsimha.2025.4K-2160p.SDR.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HC-ESub.x264-HDHub4u.Ms.mkv
 
 
+#EXTINF: -4 tvg-logo="https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg" ,Coolie Telugu
+https://jobin-justin-13-02-2cee682a1906.herokuapp.com//dl/19920?code=4cbb0e8170fc2b3583597cd76abba6f873858e9004a59350
 
+
+#EXTINF: -5 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyMTgyYjgtOTM3ZC00OGMyLWI3YTEtMDFkZmJiOGUxMzZjXkEyXkFqcGc@._V1_.jpg" ,Litte Hearts
+https://jobin-justin-13-02-2cee682a1906.herokuapp.com//dl/19872?code=0d008fd833e2de12587c8a8a0623629881993ac08433b3a5
 
 
 
