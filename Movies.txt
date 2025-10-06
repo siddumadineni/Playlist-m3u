@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" ,Animal
+https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/ANiMAL.2023.1080p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1759734410136
+
+#EXTINF: -2 tvg-logo="https://image.tmdb.org/t/p/w400/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg" ,Hi Nanna
+https://cdn.fsl-buckets.life/Hi.Nanna.2023.1080p.WEB.DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv?token=9a812816b16348ca3082c354c0934f48_1759735052_147
